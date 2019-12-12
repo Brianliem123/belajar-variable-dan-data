@@ -3,11 +3,9 @@ public class belajarvariable{
         int A = 7;
         int B = 5;
 
-        A =A+B;
-        B =B+A;
-        A =B-A;
-        B =B-A;
-        B =B-A;
+        A = A+B;
+        B = A-B;
+        A = A-B;
 
 
         System.out.println("hasil dari A adalah "+A);
